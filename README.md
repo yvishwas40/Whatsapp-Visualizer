@@ -159,9 +159,6 @@ yarn install
 Usage
 Bash
 
-npm run dev
-# or
-yarn dev
 Then open your browser and navigate to the URL printed in the terminal (commonly http://localhost:5173).
 
 Import your exported WhatsApp chat .txt file.
@@ -184,23 +181,6 @@ Bash
 npm run preview
 
 
-## Project Structure
-
-Whatsapp-Visualizer/
-├── server/             # Backend parsing / APIs (optional)
-├── src/                # Frontend + visualization logic
-│   ├── components/     # React/Vue components for chat UI & charts
-│   ├── utils/          # Parsing & data-mapping utilities
-│   └── styles/         # CSS / Tailwind styles
-├── public/             # Static assets (images / demo gifs)
-├── Demo.mp4            # Demo video
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-├── tailwind.config.js
-├── postcss.config.js
-└── .eslintrc.js
 
 ## License
 
