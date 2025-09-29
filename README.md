@@ -65,7 +65,7 @@ A demo video is included in this repository as `Demo.mp4`. Use it to get a quick
 
 ### Installation
 
-```bash
+
 # Clone the repo
 git clone [https://github.com/yvishwas40/Whatsapp-Visualizer.git](https://github.com/yvishwas40/Whatsapp-Visualizer.git)
 cd Whatsapp-Visualizer
@@ -148,7 +148,6 @@ A demo video is included in this repository as `Demo.mp4`. Use it to get a quick
 
 ### Installation
 
-```bash
 # Clone the repo
 git clone [https://github.com/yvishwas40/Whatsapp-Visualizer.git](https://github.com/yvishwas40/Whatsapp-Visualizer.git)
 cd Whatsapp-Visualizer
@@ -212,3 +211,5 @@ Feel free to use, modify, and share.
 ## Acknowledgements
 
 Thanks to everyone who shares their exported chats — those files made this tool possible by helping me reconstruct memories and inspire this project.
+
+
